@@ -38,13 +38,16 @@ E.g.: URC_Billboard.png, Hornybird_view.png
 9. To import models from FtD for your units:
 - load your BP,
 - delete all planar shields,
-- put Origin block to where you want the center of the model to be (recommended: at the bottom of the geometrical center),
+- put Origin block to where you want the center of the model to be (recommended: at the bottom of the geometrical center) (or position model in the scene later),
 - in V-menu "Create STL file",
 - import STL file in Blender (or any other 3d-modeling software of your choosing) and convert it to OBJ format.
 - name result EXACTLY as your unit is named in types.csv.
 - put OBJ and MTL files with the model in the OBJ folder ( see (4)),
 E.g.: URC_Billboard.mtl + URC_Billboard.obj
 - this model will represent your unit.
+
+Video:
+https://discord.com/channels/441900435138412554/939263164703449238/1004697364575039548
 
 10.
 Current limitations, that i can remember: 
