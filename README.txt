@@ -52,10 +52,7 @@ https://discord.com/channels/441900435138412554/939263164703449238/1004697364575
 10.
 Current limitations, that i can remember: 
 - no support whatsoever for carriers,
-- no range checks for amphibious units,
-- Evade order will ignore its settings and will generate "Evade everything".
+- no range checks for amphibious units
 
 Incoming in the next version:
-- carriers,
-- icons on units for moves that were ordered,
-- full support for Evade.
+- carriers
