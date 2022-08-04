@@ -45,3 +45,14 @@ E.g.: URC_Billboard.png, Hornybird_view.png
 - put OBJ and MTL files with the model in the OBJ folder ( see (4)),
 E.g.: URC_Billboard.mtl + URC_Billboard.obj
 - this model will represent your unit.
+
+10.
+Current limitations, that i can remember: 
+- no support whatsoever for carriers,
+- no range checks for amphibious units,
+- Evade order will ignore its settings and will generate "Evade everything".
+
+Incoming in the next version:
+- carriers,
+- icons on units for moves that were ordered,
+- full support for Evade.
