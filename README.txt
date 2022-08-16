@@ -50,8 +50,23 @@ Video:
 https://discord.com/channels/441900435138412554/939263164703449238/1004697364575039548
 
 10.
-Current limitations, that i can remember: 
-- no support whatsoever for carriers,
+How to build mobile units:
+- select hex with production facility you want to use,
+- right click on production facility (on the right side) - menu for build order will open.
+- set quantity you want to build,
+- click button with the name of model to confirm order.
+
+How to build fortifications:
+- right click on a hex where you want to build,
+- if there are units capable of construction there - menu for build order will open.
+- set quantity you want to build,
+- click button with the name of model to confirm order.
+
+11. Current limitations, that i can remember: :
+- my continues and deepest apologies to the owners of carriers 😆 
+- No Repair, Payment or Suspend maintenance orders,
+- not enough sanity checks. 
+
 - no range checks for amphibious units
 
 Incoming in the next version:
