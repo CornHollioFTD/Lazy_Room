@@ -1,5 +1,11 @@
 How to use Lazy Room to generate JSONs with orders:
 
+
+0. Use Super Lazy Launcher.
+
+
+
+
 1. Create a folder for files with turn information and other WAW stuff.
 E.g.: C:\WAW\
 
