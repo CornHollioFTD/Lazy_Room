@@ -33,6 +33,8 @@ ctrl+Z - undo last order,
 shift+ctrl+Z - redo order.
 F3 - view JSON with orders that will be generated,
 F2 - will save JSON to the validator's folder.
+To order Scrap: LeftCtrl + LeftAlt + Right click on the unit to scap (on the right side).
+F12 - show FPS
 
 8. To import images for your units:
 - save any image as .png,
