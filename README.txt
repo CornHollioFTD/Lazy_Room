@@ -36,6 +36,28 @@ F2 - will save JSON to the validator's folder.
 To order Scrap: LeftCtrl + LeftAlt + Right click on the unit to scap (on the right side).
 F12 - show FPS
 
+
+To Load unit:
+- select units to load,
+- right click on a carrier on the right panel.
+or
+- select units to load,
+- right click on a nearby hex with a carrier,
+- click Board to load selected units on the first available carrier.
+or
+- select carrier,
+- right click on a nearby hex with units it can load,
+- click Load to load all units in the hex that can be loaded.
+
+To unload units:
+- select units to unload,
+- right click on their carrier on the right panel.
+or
+- select carrier,
+- right click on a nearby hex,
+- click Unload to unload all units into that hex.
+
+
 8. To import images for your units:
 - save any image as .png,
 - name it EXACTLY as your unit is named in types.csv. You can add "_view" after the name (for BP-bot).
@@ -71,11 +93,12 @@ How to build fortifications:
 - click button with the name of model to confirm order.
 
 11. Current limitations, that i can remember: :
-- my continues and deepest apologies to the owners of carriers 😆 
-- No Repair, Payment or Suspend maintenance orders,
+
+- No Payment or Suspend maintenance orders,
 - not enough sanity checks. 
 
 - no range checks for amphibious units
 
-Incoming in the next version:
-- carriers
+- can't select carrier/units while ordering to nearby hex.
+- can't use right click on the same hex.
+- movement cost of loading/unloading after units have moved may not be accurate. If you think it's wrong - it probably is - press F11 to make it free and do your own math.
