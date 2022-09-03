@@ -102,3 +102,4 @@ How to build fortifications:
 - can't select carrier/units while ordering to nearby hex.
 - can't use right click on the same hex.
 - movement cost of loading/unloading after units have moved may not be accurate. If you think it's wrong - it probably is - press F11 to make it free and do your own math.
+
