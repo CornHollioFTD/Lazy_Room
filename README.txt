@@ -4,6 +4,34 @@ How to use Lazy Room to generate JSONs with orders:
 0. Use Super Lazy Launcher.
 
 
+As the name implies it will:
+- check for and install new release of LZR,
+- download and unzip fresh validator from your War Room,
+- setup settings.txt with paths, etc.
+
+
+How to use this:
+1. Put Super Lazy Launcher.exe in your WAW folder.
+2. Run it.
+
+3. At first start, it will download new LZR and will warn you that it cannot download validator.
+4. You need to enter your secret code from War Room. It's a bunch of numbers and letters in the link.
+5. Do not share this code with anyone.
+6. After entering the code - press "Download validator" to try it again.
+7. If all worked as it should - press "Start LZR". And form orders as usual.
+Important!
+New structure for folders ⚠️ 
+
+\WAW\Super Lazy Launcher.exe
+\WAW\Lazy Room\Lazy Room.exe
+\WAW\Turns\order_validation_3_MOVE\urc_turn_3_MOVE.json
+\WAW\OBJ\
+\WAW\Sprites\
+
+
+
+
+
 
 
 1. Create a folder for files with turn information and other WAW stuff.
