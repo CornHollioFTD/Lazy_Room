@@ -34,6 +34,7 @@ New structure for folders ⚠️
 
 
 
+
 1. Create a folder for files with turn information and other WAW stuff.
 E.g.: C:\WAW\
 
